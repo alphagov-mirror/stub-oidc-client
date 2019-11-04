@@ -1,0 +1,20 @@
+{
+  "aud": "",
+  "software_statement": [],
+  "grant_types": [
+    ""
+  ],
+  "application_type": [],
+  "iss": "",
+  "redirect_uris": [
+    ""
+  ],
+  "request_object_signing_alg": "",
+  "iat": 1572598125,
+  "jti": "",
+  "token_endpoint_auth_method": "",
+  "response_types": [
+    ""
+  ],
+  "id_token_signed_response_alg": ""
+}
